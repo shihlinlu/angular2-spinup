@@ -4,4 +4,4 @@
 	"scripts": false,
 	"styleLoaders": ["style", "css", "sass"],
 	"styles": true
-}a
+}
