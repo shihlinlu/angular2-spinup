@@ -5,7 +5,7 @@
   "author": {
     "name": "Shihlin Lu",
     "email": "slu5@cnm.edu",
-    "url": "https://bootcamp-coders.cnm.edu/~slu5/angular2"
+    "url": "https://bootcamp-coders.cnm.edu/~slu5/angular2-spinup"
   },
   "scripts": {
     "build": "rimraf public_html/dist && tsc && webpack --config webpack/webpack.live.js --progress --profile --bail"
